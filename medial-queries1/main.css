@@ -27,6 +27,6 @@ main {
     width: 100%;
   }
   main, footer, header {
-    margin: 1em;
+    margin: 2em;
   }
 }
